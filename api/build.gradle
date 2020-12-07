@@ -13,4 +13,3 @@ dependencies {
 
 // Just a smoke test that using this option does not lead to any exception
 compileJava.options.compilerArgs = ['-Xlint:unchecked']
-artifactoryPublish.skip = true
